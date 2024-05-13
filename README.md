@@ -1,5 +1,6 @@
-# AuthKit
-## This app is based on React Native which uses RN Image Picker, Google SignIn and Facebook Login.
+# React-Native-Auth
+
+## Hi, Ryan. This is React Native app combined with auth-kit.
 
 ### Screenshot:
 
@@ -23,12 +24,9 @@
 <img src="screenshots/detailscreen.png" width="200" height="400" />
 </div>
 
-### ` Terminal - GOOGLE DATA `
-<div align="center">
-<img src="screenshots/google.png" />
-</div>
+### Implementation Setups
 
-### ` Terminal - FACEBOOK DATA `
-<div align="center">
-<img src="screenshots/facebook.png" />
-</div>
+#### 1. git clone https://github.com/OleksandrBashchenko/RN-Auth.git
+#### 2. cd RN-Auth
+#### 3. npm install
+#### 4. npm start
